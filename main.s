@@ -6,8 +6,8 @@
 	    
 	    goto _main
 	    sdfdsf
+	    gotoasdfasd
 	   
 .end
 	    
-
 
