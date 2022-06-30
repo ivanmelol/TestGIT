@@ -1,7 +1,7 @@
 
     
     
-    _main:
+_main:
 	    BCLR TRISB, 9
 	    
 	    goto _main
